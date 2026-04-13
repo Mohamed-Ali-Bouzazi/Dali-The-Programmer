@@ -7,7 +7,7 @@
   [![Role](https://img.shields.io/badge/Role-Embedded%20Systems%20Student-blue?style=flat&logo=github)](https://github.com/[yourusername])
   [🎓 Education](https://img.shields.io/badge/Education-[ Institut Supérieur des Études Technologiques de Radès]-green?style=flat&logo=academia)
   [📍 Location](https://img.shields.io/badge/Location-[Your%20City]-orange?style=flat)
-  [📧 Contact](mailto:bouzazimohamedali31@gmail.com?style=flat&logo=gmail&color=red)
+  [📧 Contact](mailto:bouzazimohamedali31@gmail.com)
   
   > _"Bridging hardware and software through efficient, reliable, and real-time firmware."_
   
