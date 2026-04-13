@@ -35,16 +35,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **[RTOS Task Scheduler]** | Cooperative/preemptive scheduler with IPC queues & mutexes | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-000000?style=flat) | [📦 Code](https://github.com/[yourusername]/[repo]) • [📄 Docs](#) |
-| **[IoT Sensor Node]** | Low-power BLE/LoRa environmental monitor with sleep/wake cycles | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat) | [📦 Code](https://github.com/[yourusername]/[repo]) • [🎥 Demo](#) |
-| **[Custom PCB + Firmware]** | 2-layer motor driver board with STM32 PID control loop | ![KiCad](https://img.shields.io/badge/KiCad-314CB8?style=flat&logo=kicad&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | [📦 Code](https://github.com/[yourusername]/[repo]) • [🔌 Gerber](#) |
-
----
-
 ## 📬 Collaboration & Opportunities
 
 I'm actively seeking **summer internships, research assistant roles, or firmware co-op positions** where I can contribute to real-world embedded products.
