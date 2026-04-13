@@ -1,13 +1,7 @@
-<div align="center">
-  
-  ![Profile Banner]((https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/963aaef8-cab4-5fe1-acdf-192b48e10e3c/bf12b2a7-83cd-5efb-a6b0-c10ea4d15754.jpg))
-  
   # 👋 Hello, I'm [Mohamed Ali Bouzazi]
   
   [![Role](https://img.shields.io/badge/Role-Embedded%20Systems%20Student-blue?style=flat&logo=github)](https://github.com/[yourusername])
-  [🎓 Education](https://img.shields.io/badge/Education-[ Institut Supérieur des Études Technologiques de Radès]-green?style=flat&logo=academia)
-  [📍 Location](https://img.shields.io/badge/Location-[Your%20City]-orange?style=flat)
-  [📧 Contact](mailto:bouzazimohamedali31@gmail.com)
+
   
   > _"Bridging hardware and software through efficient, reliable, and real-time firmware."_
   
@@ -83,7 +77,7 @@
 I'm actively seeking **summer internships, research assistant roles, or firmware co-op positions** where I can contribute to real-world embedded products.
 
 ✅ **Open to**: Firmware development, PCB prototyping, hardware debugging, academic-industry projects  
-📩 **Best contact**: [your.email@example.com](mailto:bouzazimohamedali31@gmail.com) or [LinkedIn DM](https://linkedin.com/in/[yourprofile])
+
 
 ---
 
