@@ -16,7 +16,7 @@
 - 🌱 Exploring **[Rust for embedded / Embedded Linux / PCB design / Motor control / etc.]**
 - 🤝 Open to **internships, research collaborations, and open-source firmware projects**
 - 💬 Ask me about **MCU architecture, interrupt-driven design, or protocol implementation**
-- 📫 Reach me: **[your.email@example.com](mailto:bouzazimohamedali31@gmail.com)** or [LinkedIn](https://linkedin.com/in/[yourprofile])
+
 
 ---
 
