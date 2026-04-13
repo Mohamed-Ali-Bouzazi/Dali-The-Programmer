@@ -2,12 +2,12 @@
   
   ![Profile Banner](https://via.placeholder.com/1200x300/0f172a/1e293b?text=Embedded+Systems+%7C+Firmware+%7C+Hardware)
   
-  # 👋 Hello, I'm [Your Name]
+  # 👋 Hello, I'm [Mohamed Ali Bouzazi]
   
   [![Role](https://img.shields.io/badge/Role-Embedded%20Systems%20Student-blue?style=flat&logo=github)](https://github.com/[yourusername])
   [🎓 Education](https://img.shields.io/badge/Education-[Your%20University]-green?style=flat&logo=academia)
   [📍 Location](https://img.shields.io/badge/Location-[Your%20City]-orange?style=flat)
-  [📧 Contact](mailto:your.email@example.com?style=flat&logo=gmail&color=red)
+  [📧 Contact](mailto:bouzazimohamedali31@gmail.com?style=flat&logo=gmail&color=red)
   
   > _"Bridging hardware and software through efficient, reliable, and real-time firmware."_
   
@@ -22,7 +22,7 @@
 - 🌱 Exploring **[Rust for embedded / Embedded Linux / PCB design / Motor control / etc.]**
 - 🤝 Open to **internships, research collaborations, and open-source firmware projects**
 - 💬 Ask me about **MCU architecture, interrupt-driven design, or protocol implementation**
-- 📫 Reach me: **[your.email@example.com](mailto:your.email@example.com)** or [LinkedIn](https://linkedin.com/in/[yourprofile])
+- 📫 Reach me: **[your.email@example.com](mailto:bouzazimohamedali31@gmail.com)** or [LinkedIn](https://linkedin.com/in/[yourprofile])
 
 ---
 
@@ -83,7 +83,7 @@
 I'm actively seeking **summer internships, research assistant roles, or firmware co-op positions** where I can contribute to real-world embedded products.
 
 ✅ **Open to**: Firmware development, PCB prototyping, hardware debugging, academic-industry projects  
-📩 **Best contact**: [your.email@example.com](mailto:your.email@example.com) or [LinkedIn DM](https://linkedin.com/in/[yourprofile])
+📩 **Best contact**: [your.email@example.com](mailto:bouzazimohamedali31@gmail.com) or [LinkedIn DM](https://linkedin.com/in/[yourprofile])
 
 ---
 
