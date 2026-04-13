@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Profile Banner]([https://via.placeholder.com/1200x300/0f172a/1e293b?text=Embedded+Systems+%7C+Firmware+%7C+Hardware](https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/963aaef8-cab4-5fe1-acdf-192b48e10e3c/bf12b2a7-83cd-5efb-a6b0-c10ea4d15754.jpg))
+  ![Profile Banner]((https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/963aaef8-cab4-5fe1-acdf-192b48e10e3c/bf12b2a7-83cd-5efb-a6b0-c10ea4d15754.jpg))
   
   # 👋 Hello, I'm [Mohamed Ali Bouzazi]
   
